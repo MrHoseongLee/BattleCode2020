@@ -1,4 +1,4 @@
-package Neptune;
+package Neptune_v1;
 import battlecode.common.*;
 import java.util.Random;
 import java.util.HashMap;
@@ -190,6 +190,7 @@ public strictfp class RobotPlayer {
                 e.printStackTrace();
             }
         }
+
     }
 
     static void initHQ() throws GameActionException {
