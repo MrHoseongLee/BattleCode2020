@@ -15,7 +15,7 @@ Results
     <img src="https://user-images.githubusercontent.com/49748733/73677003-ba522200-46f8-11ea-825c-c777fa6b49be.png"></>
     <br/>
     <figcaption>Seeding results : 33th place out of 198 teams</figcaption>
-    <img src="https://user-images.githubusercontent.com/49748733/73676649-18323a00-46f8-11ea-8b41-8ca463950d92.png"></>
+    <img src="https://user-images.githubusercontent.com/49748733/75093472-6171fd00-55c5-11ea-9560-44c9de4332b1.png"></>
     <br/>
     <figcaption>International Qualifying results : 33th place out of 59 teams</figcaption>
     <img src="https://user-images.githubusercontent.com/49748733/73676994-b7573180-46f8-11ea-990b-1143a57650a2.png"></>
